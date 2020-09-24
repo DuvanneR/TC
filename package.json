@@ -1,0 +1,12 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "TrabajoC",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Duvanne",
+  "license": "ISC"
+}
+
